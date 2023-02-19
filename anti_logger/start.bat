@@ -1,0 +1,1 @@
+python -B anti_logger.py

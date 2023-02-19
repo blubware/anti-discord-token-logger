@@ -1,4 +1,13 @@
 {
     "token": "your-token-here",
-    "delay": 30
+    "delay": 30,
+
+    "password_changing": true,
+    "password": "",
+    "another_password": "",
+    "email": "",
+
+    "webhook_logging": true,
+    "webhook_url": ""
+
 }

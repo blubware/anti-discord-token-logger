@@ -8,6 +8,8 @@
     "email": "",
 
     "webhook_logging": true,
-    "webhook_url": ""
+    "webhook_url": "",
+
+    "panic": false
 
 }

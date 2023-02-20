@@ -19,6 +19,9 @@ Now you should be setup for anti token-logging!
 
     "webhook_logging": true,
     "webhook_url": ""
+    
+    "panic": false
+
 }
 ```
 ```
@@ -45,9 +48,16 @@ Now you should be setup for anti token-logging!
 
     - 'webhook_url'
     -- The webhook url to use with webhook logging
+
+- 'panic'
+-- Automatically disable your account when an unauthorized user logs into your account
 ```
 # Channel-log
 ```
+v0.0.3
+- Checks last access time for Discord, DiscordPTB and Discord Canary, useful for checking if you've been logged or checking programs you may suspect to be loggers
+- Panic Disable option
+
 v0.0.2
 - Password change on detection
 - Webhook notifications

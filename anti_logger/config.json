@@ -1,8 +1,8 @@
 {
-    "token": "your-token-here",
+    "token": "",
     "delay": 30,
 
-    "password_changing": true,
+    "password_changing": false,
     "password": "",
     "another_password": "",
     "email": "",
